@@ -1,5 +1,3 @@
-from datetime import datetime
-
 def collect_feedback():
     print("===== Student Feedback Form =====")
 
